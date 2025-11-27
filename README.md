@@ -21,9 +21,10 @@ Hands-on practice project using a custom dataset to learn:
 
 2. Install pandas
    ```bash
- pip install pandas
+   pip install pandas
 
-4. Open the notebook
+3. Open the notebook
    ```bash
    jupyter notebook
+
 
