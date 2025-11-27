@@ -20,7 +20,10 @@ Hands-on practice project using a custom dataset to learn:
    source venv/bin/activate
 
 2. Install pandas
--- pip install pandas
+   ```bash
+ pip install pandas
 
-3. Open the notebook
--- jupyter notebook
+4. Open the notebook
+   ```bash
+   jupyter notebook
+
