@@ -1,4 +1,4 @@
-# 🐼 Pandas Practice Project  
+# Pandas Practice Project  
 
 A hands-on practice project designed to master essential Pandas skills for Data Engineering and Data Analysis.  
 Includes real cleaning, transformation, grouping, merging, and feature engineering workflows.
@@ -169,3 +169,4 @@ This notebook now serves as a **foundation for more advanced Data Engineering ta
 - Data validation  
 - Exploratory Data Analysis (EDA)  
 - Machine learning preprocessing  
+
